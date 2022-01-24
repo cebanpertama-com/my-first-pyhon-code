@@ -1,2 +1,2 @@
-# my-first-pyhon-code
+# my-first-python-code
 Ini adalah projek python pertama saya
